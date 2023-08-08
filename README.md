@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Dipali Bari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="400" alt="GithubImg" style={margin:10px auto }/>
